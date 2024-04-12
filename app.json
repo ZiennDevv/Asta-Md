@@ -1,29 +1,29 @@
 {
-  "name": "asta-md",
+  "name": "VE-AI",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://i.imgur.com/ZkBjWK2.jpg",
-  "keywords": "Asta-Md",
+  "logo": "https://telegra.ph/file/119a7af18d5a3b7c19e35.jpg",
+  "keywords": "VE-AI",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Astro",
+      "value": "Mas Iann",
       "required" :true
     },   
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "HRKU-531f089b-6221-4c24-b9de-5a1493f672e6",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "",
+      "value": "Rian  Septiana",
     "required" :true
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "𝘼𝙎𝙏𝘼 𝙈𝘿"
+      "value": "VE-AI"
     }, 
     "PREFIX": {
       "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
@@ -31,11 +31,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348039607375"
+      "value": "6288971614978"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "SESSION_05_53_04_12_eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU1kelZpSEZUck9heWdoRmVxbkEzelpxMEllcjdkbmpYbEhHM0VhbmNVTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieEc5QVN4NlNXaHZqdGE1dk5UWi9pckhMZ0UvV0t1M0M3U1dvRkgxYm9sZz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ5QXRlSnZTY000VzJnWFdsSVZ2L3g0Z3RJYkcva0ZoMU1NSVp5ZTZ1RjIwPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJSYUxVVmFiZzVLbW1ta3g5VjZ4NHVOZTFsMWR2cmt1Z0NybFRjTFlsaUhNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlVCRVlYejdpaXJuSjZQM1lhQjlQT0N5dGFhZ1YvSlNlbDJLSUxwMExsbHM9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjJjOEFXd0pmMWoyM0VESTBtejQwVVBDa2FTR1lzampLSnFVU0xkTlpEQW89In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZU00UW91aklzb2FtUjVYMDNNMWszeDNsUGU4TXZDb3I5dUNTT1ZabUlXVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZW1nMXdva3FJa0dxQUoxdWxFd1ROTGxpUnlWZDhRZWl0WXczWmtKK2RUST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlN2ZGRYeHorRzg4b1dxUnNWVjdSSmE2cUNESUo4Y2FvaTdNaE8vZ1BzUzNpTG9OT3habWJoRnlwaW5UQmwzNWJGeVdDQXdDMmFhN0VCc2xkc1FsVkFBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTAyLCJhZHZTZWNyZXRLZXkiOiJLeE5nOU5ONnlrNmREMjF2TUFUN3h6SGxQWU9udGZJZENLUXM2K0xwbHZZPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W3sia2V5Ijp7InJlbW90ZUppZCI6IjYyODUxNzY3MjkwNDlAcy53aGF0c2FwcC5uZXQiLCJmcm9tTWUiOnRydWUsImlkIjoiRjQyNkI2QzY5NEEyRTRGOTBGRkY2NkJFRTQwNzQ1QjIifSwibWVzc2FnZVRpbWVzdGFtcCI6MTcxMjkwMTE3OH1dLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MSwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoiLXhHdkd6XzNUQ1dGcUNnMkU3SnYzZyIsInBob25lSWQiOiI1ZTExMmYzMy02NzhjLTQwNWItOTE2ZS1mNWMwMjA2MjY4ODAiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRXAyZlFON214RWRlcEx2WlQwWDJ0bllkd1RBPSJ9LCJyZWdpc3RlcmVkIjp0cnVlLCJiYWNrdXBUb2tlbiI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImIzcHNvbXdLcHpDa0QwZWx2N0RVeG5vaTRKND0ifSwicmVnaXN0cmF0aW9uIjp7fSwicGFpcmluZ0NvZGUiOiI5RFJNR1RDMyIsIm1lIjp7ImlkIjoiNjI4NTE3NjcyOTA0OToxMUBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJJYW5uIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNKSDVoZWtCRUxDWTQ3QUdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiIvNEdDWEM0Q0R3VndxN0cycVlOZGlsMktGOERaN1p5WHlTaUx2ekNnTm4wPSIsImFjY291bnRTaWduYXR1cmUiOiIyY1A3dG9VZ2J5MDdhVTJYR25qd3Z1czZocDA3ZFRIVFNYbEpDZm4zaUdsSlJGYlh1NTJiRm9DTjRkNTNFdDhLcnZuUS9SVytXeUcrd29veU0ycFRBUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiMG1wekVBN3FaY0c2WHZZSEVMNmE2N0MwNkd0QWlJOTErL0dtM1cvd0pxQnptS29xeDdDQU85R0xhYlQrcHZGdm5LSlNpWXBIaGRIYTYzRHlvVzNKRFE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI2Mjg1MTc2NzI5MDQ5OjExQHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmYrQmdsd3VBZzhGY0t1eHRxbURYWXBkaWhmQTJlMmNsOGtvaTc4d29EWjkifX1dLCJwbGF0Zm9ybSI6InNtYmEiLCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3MTI5MDExNzEsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBSld0In0="
   
     },
     "MODE": {
@@ -45,12 +45,12 @@
     "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://i.imgur.com/DoPFyzc.jpg,https://i.imgur.com/YgdZA3l.jpg,https://i.imgur.com/K4IEW12.jpg,https://i.imgur.com/q5MAdYt.jpg,https://i.imgur.com/z20pSwu.jpg,https://i.imgur.com/Xp1b2vG.jpg,https://i.imgur.com/OQOH4Gn.jpeg,https://i.imgur.com/lIo3cM2.jpeg"
+      "value": "https://telegra.ph/file/119a7af18d5a3b7c19e35.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Africa/Lagos"
+      "value": "Asia/Jakarta"
     },  
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -89,12 +89,12 @@
     },
     "DISABLE_PM": {
       "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
-      "value": "false",
-      "required" :false
+      "value": "true",
+      "required" :true
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "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",
+      "value": "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",
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
@@ -104,18 +104,18 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "c46yYNZRezRZaamC4x5mNMyj",
       "required" :false
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝘼𝙎𝙏𝘼 𝙈𝘿",
-      "required": false 
+      "value": "VE-AI",
+      "required": true
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
-      "required": false 
+      "value": "Mas Iann",
+      "required": true
     },
     "STACK": {
       "description": "STACK NAME ",
@@ -125,15 +125,16 @@
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
       "value": "false",
-      "required" :false
+      "required" :true
     },
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "false",
-      "required" :false
+      "required" :true
     }
   }
 }
 
 
 
+      
